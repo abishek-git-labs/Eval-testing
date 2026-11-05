@@ -1,0 +1,77 @@
+[
+  {
+    "profile": "it-helpdesk",
+    "policy_sha256": "0c67ed8cb1d18ec9094abb276dd2f3b73368cdb1ef8e492ade77f3957fed34a0",
+    "id": "it-01",
+    "question": "What are the helpdesk support hours?",
+    "reference_answer": "Monday through Friday, 09:00-17:00 UTC.",
+    "model_answer": "The helpdesk operates Monday through Friday, 09:00-17:00 UTC.",
+    "finish_reason": "stop",
+    "model": "qwen3-8b",
+    "answer_usage": {
+      "prompt_tokens": 475,
+      "completion_tokens": 23,
+      "total_tokens": 498
+    },
+    "request_started_at": "2026-10-28T09:25:07.870862+00:00",
+    "first_content_received_at": "2026-10-28T09:25:14.138183+00:00",
+    "request_completed_at": "2026-10-28T09:25:15.509660+00:00",
+    "ttft_seconds": 6.264734666001459,
+    "latency_seconds": 7.636,
+    "end_to_end_output_tokens_per_second": 3.0121415498299866,
+    "end_to_end_output_throughput_unavailable_reason": null,
+    "temperature": 0,
+    "max_tokens": 256,
+    "thinking_requested": false
+  },
+  {
+    "profile": "it-helpdesk",
+    "policy_sha256": "0c67ed8cb1d18ec9094abb276dd2f3b73368cdb1ef8e492ade77f3957fed34a0",
+    "id": "it-02",
+    "question": "What information should I include in a ticket?",
+    "reference_answer": "The asset ID, issue description, and exact error message if one is shown.",
+    "model_answer": "You should include the asset ID, a description of the issue, and the exact error message if one is shown when submitting a ticket.",
+    "finish_reason": "stop",
+    "model": "qwen3-8b",
+    "answer_usage": {
+      "prompt_tokens": 476,
+      "completion_tokens": 28,
+      "total_tokens": 504
+    },
+    "request_started_at": "2026-10-28T09:25:18.406104+00:00",
+    "first_content_received_at": "2026-10-28T09:25:19.047887+00:00",
+    "request_completed_at": "2026-10-28T09:25:20.472213+00:00",
+    "ttft_seconds": 0.6416051670003071,
+    "latency_seconds": 2.065,
+    "end_to_end_output_tokens_per_second": 13.556806527411586,
+    "end_to_end_output_throughput_unavailable_reason": null,
+    "temperature": 0,
+    "max_tokens": 256,
+    "thinking_requested": false
+  },
+  {
+    "profile": "it-helpdesk",
+    "policy_sha256": "0c67ed8cb1d18ec9094abb276dd2f3b73368cdb1ef8e492ade77f3957fed34a0",
+    "id": "it-03",
+    "question": "Does the P1 target guarantee the outage will be fixed within 30 minutes?",
+    "reference_answer": "No. The target is for an initial response during support hours, not resolution.",
+    "model_answer": "No. The P1 target is an initial response target of 30 minutes, but it is explicitly stated that these targets are not guarantees of resolution time.",
+    "finish_reason": "stop",
+    "model": "qwen3-8b",
+    "answer_usage": {
+      "prompt_tokens": 484,
+      "completion_tokens": 33,
+      "total_tokens": 517
+    },
+    "request_started_at": "2026-10-28T09:25:21.121852+00:00",
+    "first_content_received_at": "2026-10-28T09:25:21.460769+00:00",
+    "request_completed_at": "2026-10-28T09:25:23.273105+00:00",
+    "ttft_seconds": 0.3387006659995677,
+    "latency_seconds": 2.15,
+    "end_to_end_output_tokens_per_second": 15.346588163242018,
+    "end_to_end_output_throughput_unavailable_reason": null,
+    "temperature": 0,
+    "max_tokens": 256,
+    "thinking_requested": false
+  }
+]

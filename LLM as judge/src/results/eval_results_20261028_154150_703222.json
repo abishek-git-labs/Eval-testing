@@ -1,0 +1,27 @@
+[
+  {
+    "profile": "willow",
+    "policy_sha256": "a0f451bbf33b9de48ac43b29486d100b993469d16f5a4ea046b27cf4ebb39184",
+    "id": "case-01",
+    "question": "What is the standard return period?",
+    "reference_answer": "Customers may request a return within 30 calendar days of delivery.",
+    "model_answer": "The standard return period is 30 calendar days from the date of delivery.",
+    "finish_reason": "stop",
+    "model": "qwen3-8b",
+    "answer_usage": {
+      "prompt_tokens": 347,
+      "completion_tokens": 17,
+      "total_tokens": 364
+    },
+    "request_started_at": "2026-10-28T10:11:50.703292+00:00",
+    "first_content_received_at": "2026-10-28T10:11:58.411718+00:00",
+    "request_completed_at": "2026-10-28T10:11:59.642014+00:00",
+    "ttft_seconds": 7.705890375000308,
+    "latency_seconds": 8.936,
+    "end_to_end_output_tokens_per_second": 1.9023114930997536,
+    "end_to_end_output_throughput_unavailable_reason": null,
+    "temperature": 0,
+    "max_tokens": 256,
+    "thinking_requested": false
+  }
+]

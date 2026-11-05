@@ -1,0 +1,4 @@
+openai
+langsmith
+python-dotenv
+truststore

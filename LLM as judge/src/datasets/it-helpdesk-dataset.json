@@ -1,0 +1,62 @@
+[
+  {
+    "id": "it-01",
+    "question": "What are the helpdesk support hours?",
+    "reference_answer": "Monday through Friday, 09:00-17:00 UTC."
+  },
+  {
+    "id": "it-02",
+    "question": "What information should I include in a ticket?",
+    "reference_answer": "The asset ID, issue description, and exact error message if one is shown."
+  },
+  {
+    "id": "it-03",
+    "question": "Does the P1 target guarantee the outage will be fixed within 30 minutes?",
+    "reference_answer": "No. The target is for an initial response during support hours, not resolution."
+  },
+  {
+    "id": "it-04",
+    "question": "What is the initial response target for an issue blocking one employee?",
+    "reference_answer": "P2: 4 business hours, measured during support hours."
+  },
+  {
+    "id": "it-05",
+    "question": "What does this policy say about weekend support?",
+    "reference_answer": "Weekend support arrangements are not specified."
+  },
+  {
+    "id": "it-06",
+    "question": "Can I install an application that is not in the approved catalog?",
+    "reference_answer": "IT approval is required before installation."
+  },
+  {
+    "id": "it-07",
+    "question": "Am I guaranteed a loan laptop on the day I request it?",
+    "reference_answer": "No. It depends on availability and manager approval; same-day availability is not guaranteed."
+  },
+  {
+    "id": "it-08",
+    "question": "What is the helpdesk email address?",
+    "reference_answer": "The policy does not provide an email address. Tickets are submitted through the employee support portal."
+  },
+  {
+    "id": "it-09",
+    "question": "What is the initial response target for a non-blocking request?",
+    "reference_answer": "P3: 2 business days, measured during support hours."
+  },
+  {
+    "id": "it-10",
+    "question": "What must happen before a helpdesk-assisted password reset?",
+    "reference_answer": "Identity verification is required."
+  },
+  {
+    "id": "it-11",
+    "question": "Will the helpdesk repair my personal laptop?",
+    "reference_answer": "No. The helpdesk does not repair personal devices."
+  },
+  {
+    "id": "it-12",
+    "question": "May I access company email from a personal device?",
+    "reference_answer": "The policy does not specify whether personal devices may access company email."
+  }
+]

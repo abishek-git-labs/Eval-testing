@@ -1,0 +1,44 @@
+Northstar IT Helpdesk Policy (Fictional Training Example)
+
+Scope
+This policy applies to Northstar employees using company-managed laptops.
+
+Support hours
+The helpdesk operates Monday through Friday, 09:00-17:00 UTC.
+The policy does not specify weekend support arrangements.
+
+Opening a ticket
+Submit a ticket through the employee support portal. Include the asset ID,
+a description of the issue, and the exact error message if one is shown.
+This policy does not provide a support email address or telephone number.
+
+Priorities and initial response targets
+P1: A company-wide outage has an initial response target of 30 minutes.
+P2: An issue blocking one employee's work has an initial response target
+of 4 business hours.
+P3: A non-blocking request has an initial response target of 2 business days.
+These targets are measured during support hours. They are not guarantees
+of resolution time.
+
+Password resets
+Employees can use the self-service password portal. If it is unavailable,
+contact the helpdesk through the support portal. Helpdesk-assisted resets
+require identity verification. Support never asks for a password or MFA code.
+
+Software installation
+Employees may install applications listed in the approved software catalog.
+Applications not in the catalog require IT approval before installation.
+Local administrator access is not granted automatically.
+
+Loan laptops
+An employee whose company laptop needs repair may request a loan laptop.
+Issue of a loan laptop depends on availability and manager approval.
+Same-day availability is not guaranteed.
+
+Lost or stolen devices
+Report a lost or stolen company laptop immediately through the security
+incident form. Do not wait until the next working day.
+
+Personal devices
+The helpdesk does not repair personal devices. This policy does not specify
+whether personal devices may access company email.
